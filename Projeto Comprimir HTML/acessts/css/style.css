@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+/*
+.container-body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: #f2f2f2;
+}
+
+.container-menu {
+    width: 300px;
+    box-shadow: 2px 1px 20px rgba(0,0,0,0.10);
+    background-color: #ffff;
+}
+
+.content-menu {
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    background-color: #ffffff;
+}
+*/
+/*
+.tab-content-body {
+    display: flex;
+}
+
+.tab {
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 15rem;
+    height: 100vh;
+  }
+  
+  .tab div {
+    display: block;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .tab div:hover {
+    background-color: #ddd;
+  }
+  
+  .tab div.active {
+    background-color: #1971ff;
+    color: #fff;
+  }
+  
+  .tabcontent {
+    float: left;
+    padding: 0px 12px;
+    width: 100%;
+    height: 100vh;
+  }
+*/
+
+
+#containerBody {
+  display: flex;
+}
+
+
+
